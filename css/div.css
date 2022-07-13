@@ -1,0 +1,16 @@
+div{
+    background-color : green;
+    border : 10px solid black;
+
+    /* border-color: maroon;
+    border-style : dashed;
+    border-width : 20px; */
+}
+
+span{
+    background-color:white
+}
+
+body{
+    background-color:beige
+}
